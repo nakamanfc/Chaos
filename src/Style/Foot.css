@@ -1,0 +1,30 @@
+.foot{
+    bottom: 0;
+    background-color: rgba(230, 246, 255, 0.9);
+}
+.foottt{
+    background-color: #ffffff;
+    margin-top: -10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 120px;
+
+}
+.foot-contact{
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 3px solid rgb(152, 92, 192);
+}
+.foot-icon{
+    color: rgb(152, 92, 192) !important;
+    z-index: 2;
+}
+.foot-end{
+    z-index: 2;
+    padding-top: 10px;
+    font-family: 'DotGothic16', sans-serif;
+    color: rgb(152, 92, 192);
+}

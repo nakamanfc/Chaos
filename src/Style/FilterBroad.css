@@ -1,0 +1,51 @@
+.ft-ct{
+    background-color: white;
+    border: 1px solid rgba(0,0,0,0.16);
+    border-radius: 14px;
+    width: 400px;
+    height: fit-content;
+    margin-right: 10px;
+    box-shadow: 2px 1px 10px rgba(0,0,0,0.16);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.ft-bx{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.ft-tile{
+    width: 100%;
+    color: rgb(58, 58, 58);
+    font-size: 20px;
+    font-weight: 500;
+}
+.ft-races{
+    display: flex;
+    flex-direction: column;
+    color: rgb(58, 58, 58);
+    font-size: 20px;
+    font-weight: 500;
+}
+.ft-elements{
+    display: flex;
+    flex-direction: column;
+    color: rgb(58, 58, 58);
+    font-size: 20px;
+    font-weight: 500;
+}
+.ft-gender{
+    display: flex;
+    flex-direction: column;
+    color: rgb(58, 58, 58);
+    font-size: 20px;
+    font-weight: 500;
+}
+.ft-sales{
+    display: flex;
+    flex-direction: column;
+    color: rgb(58, 58, 58);
+    font-size: 20px;
+    font-weight: 500;
+}

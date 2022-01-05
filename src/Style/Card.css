@@ -1,0 +1,41 @@
+.box-card{
+    height: fit-content;
+    width:280px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.16);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgba(0,0,0,0.16);
+}
+.chaosFrame{
+    margin-top: 10px;
+    width:260px;
+    height:280px;
+    border: none;
+    border-radius: 4px 4px 0px 0px;
+}
+.chaosInfo{
+    font-weight: 100;
+    color: grey;
+    width:260px;
+    height: fit-content;
+    border-top: none;
+    border-radius: 0px 0px 4px 4px;
+}
+.box-card:hover{
+    box-shadow: 2px 1px 10px rgba(0,0,0,0.16);
+    cursor: pointer;
+}
+.Price-card{
+    color: rgb(92, 92, 92);
+    padding-top: 20px;
+    font-weight: 500;
+}
+.container-card{
+    width:fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

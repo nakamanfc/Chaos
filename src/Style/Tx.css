@@ -1,0 +1,33 @@
+.tx-box{
+    display: flex;
+}
+.tx-left{
+    flex: 1;
+    font-weight: 500;
+}
+.tx-left #t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tx-left #d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(236, 214, 236, 0.651);
+}
+.tx-right{
+    flex: 5;
+    color: gray;
+}
+.tx-right #t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tx-right #d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(236, 214, 236, 0.651);
+}

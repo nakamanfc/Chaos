@@ -1,0 +1,72 @@
+.chaospage-box{
+    background: white;
+}
+.image-home{
+    max-width: 100%;
+    height: auto;
+}
+.chaospage-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 200px;
+    font-size: 40px;
+    font-weight: 500;
+    color: rgb(58, 58, 58);
+    margin-bottom: 15px;
+}
+.chasopage-content{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: 300;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+}
+.chaospage-chaoslist{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: fit-content;
+    background-color: rgba(230, 246, 255, 0.9);
+    padding-top: 20px;
+}
+.chaospage-gridcontainer{
+    display: grid;
+    width: fit-content;
+    grid-template-columns: auto auto;
+    grid-gap: 50px 50px;
+    padding-left: 20px;
+}
+.chaospage-chaoses{
+    flex:1.4;
+}
+.chaospage-pagination{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.chaospage-filter{
+    flex: 1;
+    display: flex;
+    justify-content: end;
+    height: 1170px;
+}
+.maketplace-gridcontainer{
+    display: grid;
+    width: fit-content;
+    grid-template-columns: auto auto;
+    grid-gap: 22px 50px;
+    padding-left: 20px;
+}
+.shop-chaoses{
+    flex:1.4;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
