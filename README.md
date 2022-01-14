@@ -1,4 +1,4 @@
-# TindUet
+# CryptoChaos
 
 Mô tả dự án:
 - Đây là sản phẩm của một dự án công nghệ.
@@ -14,13 +14,13 @@ Công nghệ sử dụng
 
 Một số hình ảnh:
 
-![alt text](https://github.com/nakamanfc/chaos/Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/1Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/2Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/3Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/4Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/5Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/6Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/7Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/8Untitled.png)
-![alt text](https://github.com/nakamanfc/chaos/10Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/1Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/2Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/3Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/4Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/5Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/6Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/7Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/8Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/10Untitled.png)
