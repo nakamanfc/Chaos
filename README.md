@@ -13,6 +13,8 @@ Công nghệ sử dụng
 - ReactJS 
 - Solidity
 
+[Báo Cáo](https://docs.google.com/document/d/1zW2MQsAJW-STfZ8p_tzTcvDLcCbMH46Nm3AabOlqb3U/edit?usp=sharing)
+
 Một số hình ảnh:
 
 ![alt text](https://github.com/nakamanfc/Chaos/blob/main/Untitled.png)
