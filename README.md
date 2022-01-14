@@ -14,7 +14,7 @@ Công nghệ sử dụng
 
 Một số hình ảnh:
 
-![alt text](https://github.com/nakamanfc/Chaos/Untitled.png)
+![alt text](https://github.com/nakamanfc/Chaos/blob/main/Untitled.png)
 ![alt text](https://github.com/nakamanfc/Chaos/1Untitled.png)
 ![alt text](https://github.com/nakamanfc/Chaos/2Untitled.png)
 ![alt text](https://github.com/nakamanfc/Chaos/3Untitled.png)
